@@ -1,5 +1,5 @@
 {
-    "instanceUrl": "https://devdiv.visualstudio.com/defaultcollection",
+    "instanceUrl": "https://vscode.dev/defaultcollection",
     "projectName": "OnlineServices",
     "areaPath": "OnlineServices\\VS Code (compliance tracking only)\\Visual Studio Code Services",
     "notificationAliases": [
